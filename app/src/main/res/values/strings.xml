@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Only-Notes</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Namaste">Namaste</string>
+    <string name="todo">todo</string>
+    <string name="only_notes">Only-Notes</string>
+    <string name="create_your_account">Create Your Account</string>
+    <string name="Enter_your_email_here">email</string>
+    <string name="signup">SignUp</string>
+    <string name="login_title">Login to the App</string>
+    <string name="signin">SignIn</string>
+    <string name="enter_your_notes">Enter Your Notes</string>
+    <string name="type_your_note_here">Type your Note here</string>
+</resources>
